@@ -1,5 +1,5 @@
-SRC=httpput.c
-OBJ=httpput
+SRC=demo.c
+OBJ=demo
 CFLAGS=-I/home/lxj/include -I./inc -g 
 LDFLAGS=-L/home/lxj/lib -lcurl -lcrypto -lssl -lbase64
 
